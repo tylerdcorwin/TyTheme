@@ -1,0 +1,12 @@
+defaultPortal: TyTheme
+portals:
+  - name: TyTheme
+    portalId: 20543921
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CLaj6O2yLxIJAA0AAAAA4A0DGLHz5Qkg_pzXBCju6QwyFByW_CUCnVsRzn-8kRWByOMo2GULOigAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgQhTIkBM9W9AzSo6Qi5LpcEkqX2zRC0oDbmEx
+        expiresAt: '2021-08-10T01:42:54.140Z'
+    personalAccessKey: >-
+      CiQ4MTllZDM1MS03MTYwLTRhYjMtYTJlYy0zM2FlMzE2Y2EwMTgQsfPlCRj-nNcEKhkABeaRgquBPdqqCzTVZ62yY6EaUyFGOK8nSgNuYTE
